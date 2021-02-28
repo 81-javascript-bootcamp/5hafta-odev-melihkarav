@@ -1,1 +1,1 @@
-export const API_URL = 'https://6032450ea223790017aced0a.mockapi.io/tasks';
+export const API_URL = 'https://603a25ead2b9430017d24bd9.mockapi.io/tasks';
